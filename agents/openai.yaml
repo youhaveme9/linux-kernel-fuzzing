@@ -1,0 +1,4 @@
+interface:
+  display_name: "Linux Kernel Fuzzing"
+  short_description: "Audit and improve syzkaller campaigns"
+  default_prompt: "Use $linux-kernel-fuzzing to audit this authorized syzkaller campaign and recommend the next evidence-backed experiment."
